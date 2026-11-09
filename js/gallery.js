@@ -5,7 +5,7 @@ const photos = [
     caption: "Thank you for being a part of my life... every day with you feels like a gift."
   },
   {
-    src: "photos/photo2.jpg",
+    src: "photos/photo2.jpeg",
     caption: "I hope that on this special day, you are surrounded by happiness and love."
   },
   {
